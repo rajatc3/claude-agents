@@ -5,9 +5,9 @@
   },
   "plugins": [
     {
-      "name": "demo-agent-plugin",
-      "source": "./demo-agent-plugin",
-      "description": "Demo plugin used to learn the plugin/marketplace install flow. Contains one placeholder subagent."
+      "name": "api-test-baker-plugin",
+      "source": "./api-test-baker-plugin",
+      "description": "Bakes a modernized Rest-Assured/TestNG API integration-test framework into a target Java repo and wires it into mvn verify / gradle integrationTest."
     }
   ]
 }
