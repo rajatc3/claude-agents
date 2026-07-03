@@ -1,5 +1,5 @@
 {
   "name": "api-test-baker-plugin",
   "description": "Bakes a modernized Rest-Assured/TestNG API integration-test suite into a target Java repo, generated from the repo's own real endpoints, and wires it into a dedicated Maven Failsafe / Gradle integrationTest build phase with a Testcontainers-managed app lifecycle.",
-  "version": "0.1.0"
+  "version": "0.2.0"
 }
