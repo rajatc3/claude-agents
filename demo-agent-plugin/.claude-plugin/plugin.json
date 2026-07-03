@@ -1,0 +1,5 @@
+{
+  "name": "demo-agent-plugin",
+  "description": "Demo plugin with one placeholder subagent, built to learn Claude Code's plugin install mechanism.",
+  "version": "0.1.0"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "claude-agents",
+  "owner": {
+    "name": "stark"
+  },
+  "plugins": [
+    {
+      "name": "demo-agent-plugin",
+      "source": "./demo-agent-plugin",
+      "description": "Demo plugin used to learn the plugin/marketplace install flow. Contains one placeholder subagent."
+    }
+  ]
+}
